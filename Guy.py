@@ -12,7 +12,7 @@ print("PGL Guy: Hello! Let's begin talking! ")
 
 
 class Chat:
-    # FUCK
+    
     '''rewriteMemory(self, input:str, data:str): Updates the memory with new input and data by filtering, converting, and updating the memory file.
 __init__(self, prompt='loks24975dfk4sd234fnmcdji343'): Initializes the Chat instance, loads memory from a file, processes user input, and generates a response based on the input using a matching algorithm.'''
     reply = 'No response'
@@ -138,14 +138,12 @@ __init__(self, prompt='loks24975dfk4sd234fnmcdji343'): Initializes the Chat inst
                         self.__init__(separ[id])
                         if self.reply ==key:
                             cs = 1
-                            print('DAMMIT ', self.reply)
+                            print('Output ', self.reply)
                             
                             break
                         else:
                             cs += 1
 
 
-            
-ch = Chat('ты любишь чай')
 # initializing dictionary
 
