@@ -18,4 +18,4 @@ Create a custom error code and put it into the errorCodeNoIdea variable. You'll 
 
 If there's no matches, the error code will be shown at self.reply.
 
-![alt text](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fsun9-43.userapi.com%2Fimpf%2Fc627429%2Fv627429703%2Ffe69%2Fu9HImPK2Y8Q.jpg%3Fsize%3D600x776%26quality%3D96%26sign%3D76769d15d003e82aca732272f9106aaf%26c_uniq_tag%3DL3wuI6oun1XzzlvJ0A_9j8vc5O50UbNLgL0J9Zl8ITg%26type%3Dalbum&lr=67&ogl_url=https%3A%2F%2Fsun9-43.userapi.com%2Fimpf%2Fc627429%2Fv627429703%2Ffe69%2Fu9HImPK2Y8Q.jpg%3Fsize%3D600x776%26quality%3D96%26sign%3D76769d15d003e82aca732272f9106aaf%26c_uniq_tag%3DL3wuI6oun1XzzlvJ0A_9j8vc5O50UbNLgL0J9Zl8ITg%26type%3Dalbum&pos=0&rlt_url=http%3A%2F%2Fwc3-maps.ru%2F_ld%2F277%2F28162040.jpg&rpt=simage&text=portal%202%20combustible%20lemons)
+![d9dcbd99a74cb3904f37fb5236729e9d](https://github.com/sok2176/python-pgl-guy/assets/108011774/aa7c0733-6113-425e-9a4c-56d061055640)
